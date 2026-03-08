@@ -9,6 +9,21 @@
       "name": "Red Dead Redemption 2",
       "product_id": "rdr2",
       "download_url": "https://www.mediafire.com/file/ziisfq0mh4ez971/reddead2.zip/file"
+    },
+    {
+      "name": "Geometry Dash",
+      "product_id": "geometrydash",
+      "download_url": "https://www.mediafire.com/file/714hngvpz215fvq/g30metryd%2540sh.zip/file"
+    },
+    {
+      "name": "Marvel's Spider-Man 2",
+      "product_id": "spiderman2",
+      "download_url": "https://www.mediafire.com/file/6y39c39fsg099dz/sp1d3r-m%2540n2.zip/file"
+    },
+    {
+      "name": "Farming Simulator 25",
+      "product_id": "faming25",
+      "download_url": "https://www.mediafire.com/file/6flaem4gesuvmj7/f%2540rm1ngs1mulat0r25.zip/file"
     }
   ]
 }
