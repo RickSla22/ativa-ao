@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "UltraKill",
+      "product_id": "ultrakill",
+      "download_url": "https://www.mediafire.com/file/za1o2efe23dzpbk/ultraki11.zip/file"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "product_id": "rdr2",
+      "download_url": "https://www.mediafire.com/file/ziisfq0mh4ez971/reddead2.zip/file"
+    }
+  ]
+}
