@@ -34,6 +34,16 @@
       "name": "JoJo's Bizarre Adventure: All-Star Battle R",
       "product_id": "1372110",
       "download_url": "https://www.mediafire.com/file/v6do6nts9xvmbm0/JoJoAll-StarBattle.zip/file"
+    },
+    {
+      "name": "The Last Of Us Part I",
+      "product_id": "1888930",
+      "download_url": "https://www.mediafire.com/file/21v1ix42j4swrat/tlou1.zip/file"
+    },
+    {
+      "name": "The Last Of Us Part II Remastered",
+      "product_id": "2531310",
+      "download_url": "https://www.mediafire.com/file/n2tv2kt4zb6e3c7/tlou2.zip/file"
     }
   ]
 }
