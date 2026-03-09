@@ -2,33 +2,38 @@
   "products": [
     {
       "name": "UltraKill",
-      "product_id": "ultrakill",
+      "product_id": "1229490",
       "download_url": "https://www.mediafire.com/file/za1o2efe23dzpbk/ultraki11.zip/file"
     },
     {
       "name": "Red Dead Redemption 2",
-      "product_id": "rdr2",
+      "product_id": "1174180",
       "download_url": "https://www.mediafire.com/file/ziisfq0mh4ez971/reddead2.zip/file"
     },
     {
       "name": "Geometry Dash",
-      "product_id": "geometrydash",
+      "product_id": "322170",
       "download_url": "https://www.mediafire.com/file/714hngvpz215fvq/g30metryd%2540sh.zip/file"
     },
     {
       "name": "Marvel's Spider-Man 2",
-      "product_id": "spiderman2",
+      "product_id": "2651280",
       "download_url": "https://www.mediafire.com/file/6y39c39fsg099dz/sp1d3r-m%2540n2.zip/file"
     },
     {
       "name": "Farming Simulator 25",
-      "product_id": "faming25",
+      "product_id": "2300320",
       "download_url": "https://www.mediafire.com/file/6flaem4gesuvmj7/f%2540rm1ngs1mulat0r25.zip/file"
     },
     {
       "name": "Ghost of Tsushima: Director's Cut",
-      "product_id": "ghostoftsushima",
+      "product_id": "2215430",
       "download_url": "https://www.mediafire.com/file/wlk2il0nf1w80in/gh0st_0f_tsush1m%2540.zip/file"
+    },
+    {
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "product_id": "1372110",
+      "download_url": "https://www.mediafire.com/file/v6do6nts9xvmbm0/JoJoAll-StarBattle.zip/file"
     }
   ]
 }
